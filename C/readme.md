@@ -1,6 +1,6 @@
 # C语言相关
 
-[C语言概述]()
+[C语言概述](https://github.com/VincentLieie/blog/blob/master/C/C-reduce.md)
 
 数据基本表示
 
