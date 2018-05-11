@@ -1,3 +1,6 @@
+目前未完工,所有代码放在Issues上
+
+
 # blog
 数据结构与算法:    
 [数据结构与算法](https://github.com/VincentLieie/blog/blob/master/JavaScript%E7%B3%BB%E5%88%97.md)    
